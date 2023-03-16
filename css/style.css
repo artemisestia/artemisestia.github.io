@@ -48,7 +48,7 @@ header h1 a span {
 }
 
 .navbar-brand {
-    color: #fb6a19 !important;
+    color: #000000 !important;
     font-size: 1em;
     text-transform: uppercase;
     display: initial;
@@ -616,7 +616,7 @@ p.w3l_sub_para_agile {
     font-size: 2.5em;
     line-height: 1.6em;
     letter-spacing: 2px;
-    color: #fb6a19;
+    color: #000000;
 }
 /*-- //services --*/
 /*-- /services popular --*/
